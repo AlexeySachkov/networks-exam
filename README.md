@@ -55,4 +55,6 @@
 
 ## Usefull links
 
-* [other](/other)
+* [Эндрю Таненбаум, Дэвид Уэзеролл: Компьютерные сети](http://www.ozon.ru/context/detail/id/135726580/)
+	* [Download](https://new.vk.com/doc16776306_246563632)
+* [Всякие лекции, конспекты](/other)
